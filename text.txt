@@ -1,0 +1,8 @@
+giti versian stugelu hamar:git --version
+git confing --global user.name"s" 
+git config --global user.email "dfasdas@mail.ru' userin email tal
+git init stexcum e git reopsitoria
+ls cuyc e tali repoi mej arka fileri cucuaky
+git status cuyce talis info
+git add anun avelacnum e file stagin  area
+git --all,git - A,git add. sranq bolor avelacnumen staging area
